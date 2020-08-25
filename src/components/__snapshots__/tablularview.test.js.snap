@@ -1,0 +1,128 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Tabular view with 5 records 1`] = `
+<div>
+  <div>
+    <table>
+      <thead>
+        <tr>
+          <th>
+            Name
+          </th>
+          <th>
+            Image
+          </th>
+          <th>
+            Description
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            Customer Assurance Liaison
+          </td>
+          <td>
+            <img
+              alt="item_image"
+              height="70px"
+              src="http://lorempixel.com/640/480"
+              width="70px"
+            />
+          </td>
+          <td>
+            Vel voluptatem id repudiandae aut omnis. Deleniti tempore aliquam quia magnam eos. Sunt saepe nisi delectus.
+          </td>
+        </tr>
+        <tr>
+          <td>
+            Dynamic Infrastructure Designer
+          </td>
+          <td>
+            <img
+              alt="item_image"
+              height="70px"
+              src="http://lorempixel.com/640/480"
+              width="70px"
+            />
+          </td>
+          <td>
+            Quaerat in rerum. Possimus reprehenderit provident ea voluptatem qui et enim. Ducimus ea soluta esse modi quia.
+          </td>
+        </tr>
+        <tr>
+          <td>
+            Regional Configuration Designer
+          </td>
+          <td>
+            <img
+              alt="item_image"
+              height="70px"
+              src="http://lorempixel.com/640/480"
+              width="70px"
+            />
+          </td>
+          <td>
+            Rerum voluptatibus deleniti. Et quo ea magnam quisquam aliquam sequi sed praesentium. Similique est maiores. Tempora sed ad dolores error deserunt possimus sed perferendis molestiae. Doloribus fuga velit ipsum voluptatem ut ducimus.
+          </td>
+        </tr>
+        <tr>
+          <td>
+            District Metrics Executive
+          </td>
+          <td>
+            <img
+              alt="item_image"
+              height="70px"
+              src="http://lorempixel.com/640/480"
+              width="70px"
+            />
+          </td>
+          <td>
+            Odit repudiandae et nemo voluptas quae. Voluptatibus inventore iure deserunt aliquid qui esse. Impedit molestias ea sed. Neque perspiciatis excepturi odit. Quibusdam facere dolor. Adipisci recusandae recusandae.
+          </td>
+        </tr>
+        <tr>
+          <td>
+            International Brand Analyst
+          </td>
+          <td>
+            <img
+              alt="item_image"
+              height="70px"
+              src="http://lorempixel.com/640/480"
+              width="70px"
+            />
+          </td>
+          <td>
+            Fuga cupiditate dolorum eos. Quia vel et eos qui tempora. Et et et et alias at suscipit. Corporis eum nostrum recusandae similique rerum sit perferendis ut. Qui excepturi laborum est et fugit laborum.
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+`;
+
+exports[`Test Tabular view with No data 1`] = `
+<div>
+  <div>
+    <table>
+      <thead>
+        <tr>
+          <th>
+            Name
+          </th>
+          <th>
+            Image
+          </th>
+          <th>
+            Description
+          </th>
+        </tr>
+      </thead>
+      <tbody />
+    </table>
+  </div>
+</div>
+`;

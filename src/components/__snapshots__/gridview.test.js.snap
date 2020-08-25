@@ -1,0 +1,131 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Grid view with 5 records 1`] = `
+<div>
+  <div>
+    <div
+      class="content__container"
+    >
+      <div
+        class="content__container_item"
+      >
+        <h3>
+          Customer Assurance Liaison
+        </h3>
+        <img
+          alt="itemImage"
+          height="150px"
+          src="http://lorempixel.com/640/480"
+          width="150px"
+        />
+        <p>
+          Vel voluptatem id repudiandae aut omnis. Deleniti tempore aliquam quia magnam eos. Sunt saepe nisi delectus.
+        </p>
+      </div>
+      <div
+        class="content__container_item"
+      >
+        <h3>
+          Dynamic Infrastructure Designer
+        </h3>
+        <img
+          alt="itemImage"
+          height="150px"
+          src="http://lorempixel.com/640/480"
+          width="150px"
+        />
+        <p>
+          Quaerat in rerum. Possimus reprehenderit provident ea voluptatem qui et enim. Ducimus ea soluta esse modi quia.
+        </p>
+      </div>
+      <div
+        class="content__container_item"
+      >
+        <h3>
+          Regional Configuration Designer
+        </h3>
+        <img
+          alt="itemImage"
+          height="150px"
+          src="http://lorempixel.com/640/480"
+          width="150px"
+        />
+        <p>
+          Rerum voluptatibus deleniti. Et quo ea magnam quisquam aliquam sequi sed praesentium. Similique est maiores. Tempora sed ad dolores error deserunt possimus sed perferendis molestiae. Doloribus fuga velit ipsum voluptatem ut ducimus.
+        </p>
+      </div>
+      <div
+        class="content__container_item"
+      >
+        <h3>
+          District Metrics Executive
+        </h3>
+        <img
+          alt="itemImage"
+          height="150px"
+          src="http://lorempixel.com/640/480"
+          width="150px"
+        />
+        <p>
+          Odit repudiandae et nemo voluptas quae. Voluptatibus inventore iure deserunt aliquid qui esse. Impedit molestias ea sed. Neque perspiciatis excepturi odit. Quibusdam facere dolor. Adipisci recusandae recusandae.
+        </p>
+      </div>
+      <div
+        class="content__container_item"
+      >
+        <h3>
+          International Brand Analyst
+        </h3>
+        <img
+          alt="itemImage"
+          height="150px"
+          src="http://lorempixel.com/640/480"
+          width="150px"
+        />
+        <p>
+          Fuga cupiditate dolorum eos. Quia vel et eos qui tempora. Et et et et alias at suscipit. Corporis eum nostrum recusandae similique rerum sit perferendis ut. Qui excepturi laborum est et fugit laborum.
+        </p>
+      </div>
+    </div>
+    <div
+      class="pagination"
+    >
+      <button>
+        «
+      </button>
+      <button
+        class="active"
+      >
+        1
+      </button>
+      <button>
+        »
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Test Grid view with No data 1`] = `
+<div>
+  <div>
+    <div
+      class="content__container"
+    >
+      <h5>
+        NO DATA
+      </h5>
+    </div>
+    <div
+      class="pagination"
+    >
+      <button>
+        «
+      </button>
+      <button>
+        »
+      </button>
+    </div>
+  </div>
+</div>
+`;
